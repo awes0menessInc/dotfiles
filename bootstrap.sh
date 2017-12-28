@@ -7,13 +7,13 @@ cd `dirname $0`
 mkdir $HOME/old_dotfiles # Backup directory to prevent blunders
 cp -r $HOME/.[^.]* $HOME/old_dotfiles
 
-cp -ai . $HOME # Copy dotfiles
+cp -af . $HOME # Copy dotfiles
 
 # Copies preferences if OS is MacOS
 if [[ "$OSTYPE" == "darwin"* ]]; then
 		mkdir $HOME/old_preferences # Backup for Blunders
 		cp -r /Users/$USER/Library/Preferences $HOME/old_preferences
-		cp -r user_preferences/* /Users/$USER/Library/Preferences # Copy all my MacOS and app preferences
+		cp -rf user_preferences/* /Users/$USER/Library/Preferences # Copy all my MacOS and app preferences
 fi
 
 # Get rid of evidence
