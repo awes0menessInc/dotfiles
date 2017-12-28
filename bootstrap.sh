@@ -22,7 +22,7 @@ rm Brewfile
 rm Screenshot.png
 
 # Asking for sudo permission
-[ "$UID" -eq 0 ] || exec sudo bash "$0" "$@"
+#[ "$UID" -eq 0 ] || exec sudo bash "$0" "$@"
 
 # Black magic on part of homebrew. Bundle automatically identifies the Brewfile
 # Then proceeds to install all the packages.
