@@ -27,7 +27,7 @@ rm Screenshot.png
 # Black magic on part of homebrew. Bundle automatically identifies the Brewfile
 # Then proceeds to install all the packages.
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-sudo brew bundle 
+brew bundle 
 brew cleanup
 brew prune
 
