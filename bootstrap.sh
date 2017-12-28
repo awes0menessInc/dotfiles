@@ -5,7 +5,7 @@
 cd `dirname $0` 
 
 mkdir $HOME/old_dotfiles # Backup directory to prevent blunders
-cp $HOME/.* $HOME/old_dotfiles
+cp -r $HOME/.* $HOME/old_dotfiles
 
 cp -ai . $HOME # Copy dotfiles
 
