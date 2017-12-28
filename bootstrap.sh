@@ -18,8 +18,8 @@ fi
 
 # Get rid of evidence
 rm -r user_preferences
-rm Brewfile
 rm Screenshot.png
+rm README.md
 
 # Asking for sudo permission
 #[ "$UID" -eq 0 ] || exec sudo bash "$0" "$@"
@@ -31,6 +31,7 @@ brew bundle
 brew cleanup
 brew prune
 
+rm Brewfile
 clear
 
 echo "ALL DONE!"
