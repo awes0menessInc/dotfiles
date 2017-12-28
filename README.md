@@ -3,7 +3,7 @@
 
 ~ is where the :heart: is... Then these files tell you exactly how I live. Peek away... 
 
-![Screenshot of my shell prompt]()
+![Screenshot of my shell prompt](https://github.com/awes0menessInc/dotfiles/blob/master/Screenshot.png)
 
 ## Warnings
 
