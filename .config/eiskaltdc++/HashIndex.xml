@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<HashStore Version="2">
+	<Trees>
+		<Hash Type="TTH" Index="8" BlockSize="65536" Size="151158" Root="HOER7DS4NTV3TSGFY6DXCZN4TZHBW6DRIUP45TI"/>
+		<Hash Type="TTH" Index="2024" BlockSize="65536" Size="370841" Root="2RZK74UFZ733LYZ4XTPSK4QBJMSQMG4OV56DXXA"/>
+		<Hash Type="TTH" Index="488" BlockSize="65536" Size="307616" Root="4O66R6C27FS3ZRHU3LTBDYVG7KYE4XZ5AE6K5VA"/>
+		<Hash Type="TTH" Index="944" BlockSize="65536" Size="414397" Root="HSZYKCCA2BK3GSZWD3QDKA47RLYUDX6JI4IF7YQ"/>
+		<Hash Type="TTH" Index="1424" BlockSize="65536" Size="319974" Root="2NYRYMQKW5RWOSK5KULUGVMEGX5RJZQ2ARL74AY"/>
+		<Hash Type="TTH" Index="-1" BlockSize="65536" Size="52724" Root="GHQYO6BMGNTOXV3J4YOO7SGDFO73BRN2KJ4WZYI"/>
+		<Hash Type="TTH" Index="3848" BlockSize="65536" Size="125719" Root="4WOFKXQKPCPGYPZAPP3KWZNIOOPSXYUAB62JTUQ"/>
+		<Hash Type="TTH" Index="2168" BlockSize="65536" Size="267392" Root="CX32PK2LGV2CGJSWFIU2U5UMEZFZ7BOFT3AXJQI"/>
+		<Hash Type="TTH" Index="728" BlockSize="65536" Size="289631" Root="UVYAQYX6NUGBA6BJWFQXLAGPGWOVOZQEH6545QI"/>
+		<Hash Type="TTH" Index="848" BlockSize="65536" Size="252176" Root="2XKUXVSZQ76ELJFJ5U7HLYQIO2AR3FZOZKB5BCI"/>
+		<Hash Type="TTH" Index="3680" BlockSize="65536" Size="71948" Root="Q7EJMA3XVK7OHZQKF6ATAKOOIFAUMTGUVEW34HQ"/>
+		<Hash Type="TTH" Index="3896" BlockSize="65536" Size="68240" Root="DSOZX4M6H74BMDBMZBZQBTWW6PJPLZGGE7D2ASA"/>
+		<Hash Type="TTH" Index="248" BlockSize="65536" Size="324560" Root="3U2M56BRMLQX6UIN2ASN7MBAZKXMPZDTM7J36DY"/>
+		<Hash Type="TTH" Index="-1" BlockSize="65536" Size="58046" Root="WUAJKCFLLHZNCB3G3USCQ4CV63XC4SGMURV5SOA"/>
+		<Hash Type="TTH" Index="3224" BlockSize="65536" Size="80441" Root="5JGF2EACFTATNU7MMAAB2CROO7XOTVQFXJSY3BY"/>
+		<Hash Type="TTH" Index="3176" BlockSize="65536" Size="126363" Root="QQIGKZEACDALLMQB76RVYOKIC4YCEJ62G35MZPA"/>
+		<Hash Type="TTH" Index="1544" BlockSize="65536" Size="513303" Root="YN5OXQMGHJSIELKFM24HNQKFSKQGCNHQUDLE5VI"/>
+		<Hash Type="TTH" Index="1880" BlockSize="65536" Size="335114" Root="NAXBT2SWTDHP5PTF22HWE632PKJSU747UQ2DYFY"/>
+		<Hash Type="TTH" Index="2288" BlockSize="65536" Size="432504" Root="ZKS3XGXSMWBSEE3IAZ5BBHGBMNAWURS55GA5Z2I"/>
+		<Hash Type="TTH" Index="2912" BlockSize="65536" Size="130213" Root="PUU7GHJGECBLHU63DKEACDSHEFGAFKXKFYD6DGY"/>
+		<Hash Type="TTH" Index="2552" BlockSize="65536" Size="226989" Root="24RRQY6YAYLHHYMJGG34ZGDP2CXIIMP2EDSA2QY"/>
+		<Hash Type="TTH" Index="1736" BlockSize="65536" Size="328784" Root="T4LTCBUPYOXPLPEXOQCYUAKSEJNK2NOOBYDZPAY"/>
+		<Hash Type="TTH" Index="80" BlockSize="65536" Size="193441" Root="MW76S2LTJLSSAKV6Z7PBM5UDQ3PLS2E6FVZDGXY"/>
+		<Hash Type="TTH" Index="2456" BlockSize="65536" Size="228468" Root="SSELIOHE7E6FMVOR4BREBCPYTVWZQFLTNQKZH2I"/>
+		<Hash Type="TTH" Index="2648" BlockSize="65536" Size="327151" Root="IGHPWVH76PEK6HUGZS74QHW3TKW5P4A6B7DHJWQ"/>
+		<Hash Type="TTH" Index="3128" BlockSize="65536" Size="106897" Root="ZFNCGMFHG7S2FAJZYHXFGZ5R2Y7QPEE3VMYQPHA"/>
+		<Hash Type="TTH" Index="3392" BlockSize="65536" Size="336733" Root="GYW2LWF72L62ZNWHXXCGZMNP643YO62AMZIUJKQ"/>
+		<Hash Type="TTH" Index="2960" BlockSize="65536" Size="153457" Root="X7K7CMQ4236AXHPFMYCG5MRLZQDZDVT5ETSASIA"/>
+		<Hash Type="TTH" Index="2768" BlockSize="65536" Size="147105" Root="J5VQ4HUDQMKJOBD3P67C2OCOP6YMEX6OZ2YXSTY"/>
+		<Hash Type="TTH" Index="152" BlockSize="65536" Size="196752" Root="ZZCRRW3KZTAONIH7UIOJHRYZ2RFF4FGNT2VBLEY"/>
+		<Hash Type="TTH" Index="3032" BlockSize="65536" Size="205949" Root="NM2NWAPAETMINU2DVMASK6X27M73N26A64NZDSY"/>
+		<Hash Type="TTH" Index="368" BlockSize="65536" Size="312590" Root="BLOWKDZEI2X4FSSFD3NFYB2WEEGWKQGSVZBVCOI"/>
+		<Hash Type="TTH" Index="2840" BlockSize="65536" Size="171396" Root="CGZLZCF2XLDB3RSESZBTUJ7TWC2M5AC73TMBKTA"/>
+		<Hash Type="TTH" Index="4256" BlockSize="524288" Size="37963820" Root="HQ2L4PPBMKEPN54Y7QWPFC3LWE7BE4JWFVPS2XA"/>
+		<Hash Type="TTH" Index="4040" BlockSize="65536" Size="221531" Root="RPO7HP7VW5F4I7YWIFTGHO7HU6BR73S644U2MCA"/>
+		<Hash Type="TTH" Index="3800" BlockSize="65536" Size="127146" Root="USB2JE6CO2TKT4DZ3W7OWWCOL7BQSWISKVXCJBI"/>
+		<Hash Type="TTH" Index="3536" BlockSize="65536" Size="170225" Root="TMLAEWE2TE74MFDYS7ZMPUVZPVJVH3QVCZ22YAQ"/>
+		<Hash Type="TTH" Index="-1" BlockSize="65536" Size="57214" Root="TTTFAZKB4CI5G6VTCVA7JZYU7M5BXVBZR6AWXEQ"/>
+		<Hash Type="TTH" Index="608" BlockSize="65536" Size="303589" Root="SRARML4L6HJYP4SVSVJZVTIY3JHWUOPPGQOZWGQ"/>
+		<Hash Type="TTH" Index="-1" BlockSize="65536" Size="64696" Root="PX7HBWCJSPM5IFX6VMKYBDHIUFWQWCJJNTHPCSA"/>
+		<Hash Type="TTH" Index="3608" BlockSize="65536" Size="155612" Root="I7DHPYG3F4GF4PYRKJ5XNSOFQ7GKJJSRFYORQBY"/>
+		<Hash Type="TTH" Index="3272" BlockSize="65536" Size="115160" Root="AKYBL27TZADYUYZHI4LBAJX7XVYW32AN5NMEW3A"/>
+		<Hash Type="TTH" Index="1304" BlockSize="65536" Size="293386" Root="JQPAEUDX6IUVYL2JJEY7HSHGS3I5WJKDP4DFSBQ"/>
+		<Hash Type="TTH" Index="3728" BlockSize="65536" Size="136088" Root="BIVWZ2I5OTLLFGLAIHVO4DYT2UVGVVYOPBW2V6Y"/>
+		<Hash Type="TTH" Index="3320" BlockSize="65536" Size="154262" Root="V5DQUHABM75NNCJEHQWBLL5CRIFQK5QNCYNVROI"/>
+		<Hash Type="TTH" Index="4136" BlockSize="65536" Size="132997" Root="3VPIDTDHXBM3XQ6VIDDWTVJKIOKB4CSBBDIJQOQ"/>
+		<Hash Type="TTH" Index="3992" BlockSize="65536" Size="104188" Root="2HVQMOOGZTKCVBB2MTSE6SHD4ZXTDRA7L3G7T3A"/>
+		<Hash Type="TTH" Index="1112" BlockSize="65536" Size="461579" Root="B36JWRSGNMTA6HJZVNXCYIXKLXWMDPWYX6QRVZY"/>
+		<Hash Type="TTH" Index="-1" BlockSize="65536" Size="29104" Root="RHJC6BTO7RU6262POYZVZ7UEIFDN23S5IRSPVXA"/>
+		<Hash Type="TTH" Index="3944" BlockSize="65536" Size="127828" Root="M6CQBBUO2YJSTZBTYCLIWTHCY2UGCO4H7KEEUWQ"/>
+		<Hash Type="TTH" Index="4208" BlockSize="65536" Size="107261" Root="P6RRRSS7NE4L4QASR6XO2K7TNUCYTSYEFMHEY7A"/>
+	</Trees>
+	<Files>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Dynamic Algorithms Handout.pdf" TimeStamp="1437281559" Root="HOER7DS4NTV3TSGFY6DXCZN4TZHBW6DRIUP45TI"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Final Exam Solutions.pdf" TimeStamp="1437281559" Root="MW76S2LTJLSSAKV6Z7PBM5UDQ3PLS2E6FVZDGXY"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Final Exam.pdf" TimeStamp="1437281558" Root="ZZCRRW3KZTAONIH7UIOJHRYZ2RFF4FGNT2VBLEY"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Lecture Notes 10_ Red-black Trees, R.pdf" TimeStamp="1437281358" Root="3U2M56BRMLQX6UIN2ASN7MBAZKXMPZDTM7J36DY"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Lecture Notes 11_ Augmenting Data St.pdf" TimeStamp="1437281358" Root="BLOWKDZEI2X4FSSFD3NFYB2WEEGWKQGSVZBVCOI"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Lecture Notes 12_ Skip Lists.pdf" TimeStamp="1437281503" Root="4O66R6C27FS3ZRHU3LTBDYVG7KYE4XZ5AE6K5VA"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Lecture Notes 13_ Amortized Algorith.pdf" TimeStamp="1437281505" Root="SRARML4L6HJYP4SVSVJZVTIY3JHWUOPPGQOZWGQ"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Lecture Notes 14_ Competitive Analys.pdf" TimeStamp="1437281505" Root="UVYAQYX6NUGBA6BJWFQXLAGPGWOVOZQEH6545QI"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Lecture Notes 15_ Dynamic Programmin.pdf" TimeStamp="1437281506" Root="2XKUXVSZQ76ELJFJ5U7HLYQIO2AR3FZOZKB5BCI"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Lecture Notes 16_ Greedy Algorithms,.pdf" TimeStamp="1437281507" Root="HSZYKCCA2BK3GSZWD3QDKA47RLYUDX6JI4IF7YQ"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Lecture Notes 17_ Shortest Paths I_.pdf" TimeStamp="1437281507" Root="B36JWRSGNMTA6HJZVNXCYIXKLXWMDPWYX6QRVZY"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Lecture Notes 18_ Shortest Paths II_.pdf" TimeStamp="1437281508" Root="JQPAEUDX6IUVYL2JJEY7HSHGS3I5WJKDP4DFSBQ"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Lecture Notes 19_ Shortest Paths III.pdf" TimeStamp="1437281509" Root="2NYRYMQKW5RWOSK5KULUGVMEGX5RJZQ2ARL74AY"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Lecture Notes 1_ Analysis of Algorit.pdf" TimeStamp="1437281351" Root="YN5OXQMGHJSIELKFM24HNQKFSKQGCNHQUDLE5VI"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Lecture Notes 2_ Asymptotic Notation.pdf" TimeStamp="1437281352" Root="T4LTCBUPYOXPLPEXOQCYUAKSEJNK2NOOBYDZPAY"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Lecture Notes 3_ Divide and Conquer.pdf" TimeStamp="1437281352" Root="NAXBT2SWTDHP5PTF22HWE632PKJSU747UQ2DYFY"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Lecture Notes 4_ Quicksort.pdf" TimeStamp="1437281354" Root="2RZK74UFZ733LYZ4XTPSK4QBJMSQMG4OV56DXXA"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Lecture Notes 5_ Linear-time Sorting.pdf" TimeStamp="1437281354" Root="CX32PK2LGV2CGJSWFIU2U5UMEZFZ7BOFT3AXJQI"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Lecture Notes 6_ Order Statistics, M.pdf" TimeStamp="1437281356" Root="ZKS3XGXSMWBSEE3IAZ5BBHGBMNAWURS55GA5Z2I"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Lecture Notes 7_ Hashing, Hash Funct.pdf" TimeStamp="1437281356" Root="SSELIOHE7E6FMVOR4BREBCPYTVWZQFLTNQKZH2I"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Lecture Notes 8_ Universal Hashing,.pdf" TimeStamp="1437281357" Root="24RRQY6YAYLHHYMJGG34ZGDP2CXIIMP2EDSA2QY"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Lecture Notes 9_ Relation of BSTs to.pdf" TimeStamp="1437281357" Root="IGHPWVH76PEK6HUGZS74QHW3TKW5P4A6B7DHJWQ"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Lecture Notes_ Skip Lists.pdf" TimeStamp="1437281509" Root="J5VQ4HUDQMKJOBD3P67C2OCOP6YMEX6OZ2YXSTY"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Practice Final Exam Solutions 1.pdf" TimeStamp="1437281557" Root="CGZLZCF2XLDB3RSESZBTUJ7TWC2M5AC73TMBKTA"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Practice Final Exam Solutions.pdf" TimeStamp="1437281556" Root="CGZLZCF2XLDB3RSESZBTUJ7TWC2M5AC73TMBKTA"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Practice Final.pdf" TimeStamp="1437281556" Root="PUU7GHJGECBLHU63DKEACDSHEFGAFKXKFYD6DGY"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Practice Quiz 1 Solutions.pdf" TimeStamp="1437281540" Root="X7K7CMQ4236AXHPFMYCG5MRLZQDZDVT5ETSASIA"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Practice Quiz 1.pdf" TimeStamp="1437281539" Root="WUAJKCFLLHZNCB3G3USCQ4CV63XC4SGMURV5SOA"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Problem Set 1 Solutions.pdf" TimeStamp="1437281510" Root="TTTFAZKB4CI5G6VTCVA7JZYU7M5BXVBZR6AWXEQ"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Problem Set 1.pdf" TimeStamp="1437281510" Root="GHQYO6BMGNTOXV3J4YOO7SGDFO73BRN2KJ4WZYI"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Problem Set 2 Solutions.pdf" TimeStamp="1437281521" Root="NM2NWAPAETMINU2DVMASK6X27M73N26A64NZDSY"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Problem Set 2.pdf" TimeStamp="1437281511" Root="ZFNCGMFHG7S2FAJZYHXFGZ5R2Y7QPEE3VMYQPHA"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Problem Set 3 Solutions.pdf" TimeStamp="1437281523" Root="QQIGKZEACDALLMQB76RVYOKIC4YCEJ62G35MZPA"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Problem Set 3.pdf" TimeStamp="1437281522" Root="5JGF2EACFTATNU7MMAAB2CROO7XOTVQFXJSY3BY"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Problem Set 4 Solutions.pdf" TimeStamp="1437281524" Root="AKYBL27TZADYUYZHI4LBAJX7XVYW32AN5NMEW3A"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Problem Set 4.pdf" TimeStamp="1437281523" Root="V5DQUHABM75NNCJEHQWBLL5CRIFQK5QNCYNVROI"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Problem Set 5 Solutions.pdf" TimeStamp="1437281525" Root="GYW2LWF72L62ZNWHXXCGZMNP643YO62AMZIUJKQ"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Problem Set 5.pdf" TimeStamp="1437281524" Root="TMLAEWE2TE74MFDYS7ZMPUVZPVJVH3QVCZ22YAQ"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Problem Set 6 Solutions.pdf" TimeStamp="1437281526" Root="I7DHPYG3F4GF4PYRKJ5XNSOFQ7GKJJSRFYORQBY"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Problem Set 6.pdf" TimeStamp="1437281525" Root="Q7EJMA3XVK7OHZQKF6ATAKOOIFAUMTGUVEW34HQ"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Problem Set 7 Solutions.pdf" TimeStamp="1437281528" Root="BIVWZ2I5OTLLFGLAIHVO4DYT2UVGVVYOPBW2V6Y"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Problem Set 7.pdf" TimeStamp="1437281527" Root="USB2JE6CO2TKT4DZ3W7OWWCOL7BQSWISKVXCJBI"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Problem Set 8 Solutions.pdf" TimeStamp="1437281537" Root="4WOFKXQKPCPGYPZAPP3KWZNIOOPSXYUAB62JTUQ"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Problem Set 8.pdf" TimeStamp="1437281536" Root="DSOZX4M6H74BMDBMZBZQBTWW6PJPLZGGE7D2ASA"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Problem Set 9 Solutions.pdf" TimeStamp="1437281538" Root="PX7HBWCJSPM5IFX6VMKYBDHIUFWQWCJJNTHPCSA"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Problem Set 9.pdf" TimeStamp="1437281538" Root="RHJC6BTO7RU6262POYZVZ7UEIFDN23S5IRSPVXA"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Quiz 1 Solutions.pdf" TimeStamp="1437281541" Root="M6CQBBUO2YJSTZBTYCLIWTHCY2UGCO4H7KEEUWQ"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Quiz 1.pdf" TimeStamp="1437281540" Root="2HVQMOOGZTKCVBB2MTSE6SHD4ZXTDRA7L3G7T3A"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Quiz 2 Practice.pdf" TimeStamp="1437281543" Root="RPO7HP7VW5F4I7YWIFTGHO7HU6BR73S644U2MCA"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Quiz 2 Solutions.pdf" TimeStamp="1437281556" Root="3VPIDTDHXBM3XQ6VIDDWTVJKIOKB4CSBBDIJQOQ"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Quiz 2.pdf" TimeStamp="1437281552" Root="P6RRRSS7NE4L4QASR6XO2K7TNUCYTSYEFMHEY7A"/>
+		<File Name="/Users/Shivam/Desktop/Introduction to Algorithms/Skip Lists Handout.pdf" TimeStamp="1437281560" Root="J5VQ4HUDQMKJOBD3P67C2OCOP6YMEX6OZ2YXSTY"/>
+	</Files>
+</HashStore>

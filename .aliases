@@ -1,0 +1,82 @@
+#!/u sr/bin/env bash
+
+# Easier navigation: .., ..., ...., ....., ~ and -
+alias cd..="cd .."
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias .....="cd ../../../.."
+
+# Shortcuts
+
+#
+# Python
+#
+alias cdpp="cd ~/Desktop/dev/Languages/Python/projectsLearn"
+alias p="python3 $1"
+
+#
+# Unix
+#
+alias deets="archey"
+alias deets2="screenfetch"
+alias cdup="cd /Users/Shivam/unix/proj"
+alias cdcs="cd /Users/Shivam/Documents/Shivam/University\ Stuffs/Decision\ Letters/Purdue/Purdue\ docs/Freshman/Spring\ 2017/CS\ 180/Homeworks "
+alias l="ls -alhAFGS"
+alias la="ls -lhFGS"
+alias lc="ls -acltFG"
+alias loa="ls -ldG .*?"
+alias aliases="vim ~/.aliases"
+alias profile="vim ~/.bash_profile"
+alias prompt="vim ~/.bash_prompt"
+alias vprofile="vim ~/.vimrc"
+alias srm="sudo rm -fir $1"
+alias path='echo -e ${PATH//:/\\n}'
+alias now='date +"%T"'
+alias nowtime=now
+alias nowdate='date +"%d-%m-%Y"'
+alias v="vim $1"
+alias ohmyzsh="cd ~/.oh-my-zsh"
+
+#
+# IP addresses
+#
+alias ip="dig +short myip.opendns.com @resolver1.opendns.com"
+alias localip="ipconfig getifaddr en0"
+alias ips="ifconfig -a | grep -o 'inet6\? \(addr:\)\?\s\?\(\(\([0-9]\+\.\)\{3\}[0-9]\+\)\|[a-fA-F0-9:]\+\)' | awk '{ sub(/inet6? (addr:)? ?/, \"\"); print }'"
+
+# Colorize the grep command output for ease of use (good for log files)##
+alias grep='grep --color=auto'
+alias egrep='egrep --color=auto'
+alias fgrep='fgrep --color=auto'
+
+#
+# Brew 
+#
+alias br="brew"
+alias bc="brew cask"
+alias bci="brew cask install"
+alias bcun="brew cask uninstall"
+alias brc="brew cleanup"
+alias brd="brew doctor"
+alias bre="brew edit"
+alias bri="brew install"
+alias brl="brew list -lG"
+alias brs="brew search"
+alias bru="brew update && brew upgrade"
+alias bruc="brew update && brew upgrade && brew cleanup"
+alias brun="brew uninstall"
+
+#
+# Misc Functions
+#
+
+# Merge PDF files
+# Usage: `mergepdf -o output.pdf input{1,2,3}.pdf`
+alias mergepdf='/System/Library/Automator/Combine\ PDF\ Pages.action/Contents/Resources/join.py'
+
+# Lock the screen (when going AFK)
+alias afk="/System/Library/CoreServices/Menu\ Extras/User.menu/Contents/Resources/CGSession -suspend"
+
+# Purdue 
+alias pussh="ssh sbajpayi@data.cs.purdue.edu"
