@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MessagesInFlight</key>
+	<dict>
+		<key>E96E2634-A87B-4EF5-B1F1-3DD118B1B1BD</key>
+		<dict>
+			<key>IDSMessageOperation</key>
+			<string>8</string>
+			<key>MessageToSendKey</key>
+			<dict>
+				<key>PzfnMYrA+xaNoPrQ/3X7ku4f1e</key>
+				<data>
+				AAIDAAAAAA0AAAANAAAAQQTfJUdz/KpQHZsAculZrYGk
+				8UYg52mc5FO92Web9EaOZDERNlj9XXGm0TDDLKpglZsP
+				NTz8cE27oylr1gKGXgTmAAAAAAAAAAIAAAAbVUZBO1nN
+				cISKs0wqm8AybLG2O+IKVInFKU4rf+5S/Y+QDvWR5aCd
+				F5FLiDqmnKs=
+				</data>
+			</dict>
+			<key>RecipientDeviceID</key>
+			<string>CDB6D36F-54C0-45FE-88D6-3C4F10FF502D</string>
+			<key>RecipientPeerID</key>
+			<string>PzfnMYrA+xaNoPrQ/3X7ku4f1e</string>
+			<key>UsesAckModel</key>
+			<string>YES</string>
+		</dict>
+	</dict>
+	<key>MonitorState</key>
+	<dict/>
+	<key>UnhandledMessages</key>
+	<dict/>
+</dict>
+</plist>
