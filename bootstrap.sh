@@ -29,6 +29,7 @@ fi
 # Get rid of evidence
 rm -ir user_preferences
 rm Brewfile
+rm Screenshot.png
 
 clear
 
