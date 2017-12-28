@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Asking for sudo permission
-[ "$UID" -eq 0 ] || exec sudo bash "$0" "$@"
 
 # In case the directory is not the shell file directory
 cd `dirname $0` 
@@ -10,14 +8,6 @@ mkdir $HOME/old_dotfiles # Backup directory to prevent blunders
 mv $HOME/.* $HOME/old_dotfiles
 
 cp -ai . $HOME # Copy dotfiles
-
-# Black magic on part of homebrew. Bundle automatically identifies the Brewfile
-# Then proceeds to install all the packages.
-
-brew bundle 
-brew cleanup
-brew prune
-
 
 # Copies preferences if OS is MacOS
 if [[ "$OSTYPE" == "darwin"* ]]; then
@@ -30,6 +20,16 @@ fi
 rm -ir user_preferences
 rm Brewfile
 rm Screenshot.png
+
+# Asking for sudo permission
+[ "$UID" -eq 0 ] || exec sudo bash "$0" "$@"
+
+# Black magic on part of homebrew. Bundle automatically identifies the Brewfile
+# Then proceeds to install all the packages.
+
+brew bundle 
+brew cleanup
+brew prune
 
 clear
 
